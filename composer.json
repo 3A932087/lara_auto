@@ -1,0 +1,11 @@
+{
+    "name": "ncut/auto",
+    "description": "test_aaaaaaaaaaa",
+    "authors": [
+        {
+            "name": "Yi-Hsuan Chen",
+            "email": "s3a932087@student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
